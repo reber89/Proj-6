@@ -1,0 +1,32 @@
+*{
+  text-align:center;
+}
+div{
+  width: 0px;
+  height: 0px;
+  border-right: 60px solid transparent;
+  border-top: 60px solid yellow;
+  border-left: 60px solid yellow;
+  border-bottom: 60px solid yellow;
+  border-top-left-radius: 60px;
+  border-top-right-radius: 60px;
+  border-bottom-left-radius: 60px;
+  border-bottom-right-radius: 60px;
+  position: relative;
+}
+button{
+  width:400px;
+  height:400px;
+  font-size:40px;
+  color:yellow;
+  background-color:red;
+}
+body{
+  background-color: black; 
+}
+
+#messages{
+  color:yellow;
+  float:center;
+  font-size:50px;
+}
